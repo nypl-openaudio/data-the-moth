@@ -5,6 +5,16 @@ This repository contains all the materials contributed by [The Moth](https://the
 ## Usage
 Use of these materials is restricted to participants of Open Audio Weekend during that two day event. Please direct any questions to [togetherwelisten@nypl.org](mailto:togetherwelisten@nypl.org).
 
+## Git Instructions
+To pull the audio files you will need to install [git-lfs](https://git-lfs.github.com/)
+
+```
+brew install git-lfs
+# clone the repo as you would normally do
+# enter directory
+git lfs pull
+```
+
 ## The Collection Description
 Since its launch in 1997, [The Moth](https://themoth.org/) has presented thousands of stories told live and without notes. Moth shows are renowned for the great range of human experience they showcase. Each show starts with a theme, and the storytellers explore it, often in unexpected ways. Since each story is true and every voice authentic, the shows dance between documentary and theater, creating a unique, intimate, and often enlightening experience for the audience.
 
